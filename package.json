@@ -1,0 +1,13 @@
+{
+  "name": "length-zero-no-unit-custom-properties-issue",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "stylelint test.scss"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "stylelint": "^14.15.0",
+    "stylelint-config-standard": "^29.0.0"
+  }
+}

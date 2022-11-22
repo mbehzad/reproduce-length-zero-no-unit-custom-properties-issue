@@ -1,0 +1,5 @@
+.element {
+  --offset: 0px;
+
+  left: calc(var(--offset) + 50%);
+}
